@@ -1,4 +1,4 @@
 # SGBD_SQL
 
-sql REQUEST
-Technology survey about DBMS
+- sql REQUEST
+- Technology survey about DBMS
